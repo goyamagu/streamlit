@@ -2,3 +2,4 @@ streamlit
 numpy
 mtcnn
 Pillow
+tensorflow
