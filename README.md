@@ -1,5 +1,5 @@
 ## Summary
-### FaceNet’s MTCNNで顔認識し、マスクをつけるWebAppをStreamlit Sharingで公開  
+### FaceNet’s MTCNNで顔認識し、マスクをつけるWebAppをStreamlitで実装。Streamlit Sharingで公開。  
 ## Reference  
 - https://pypi.org/project/mtcnn/
 - https://qiita.com/bear_montblanc/items/e9b47d1cde5088d1c2b0
